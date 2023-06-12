@@ -3514,11 +3514,11 @@ input[type=submit]:focus {
   }
 }
 .home-fact-section .fact-right-inner-wrap .fact-inner-box .top-right-image {
-  background-image: url(assets/img/educator-img27.jpg);
+  background-image: url(assets/imagenes/400x400/umg.jpg);
   background-position: center right;
 }
 .home-fact-section .fact-right-inner-wrap .fact-inner-box .bottom-left-image {
-  background-image: url(assets/img/educator-img28.jpg);
+  background-image: url(assets/imagenes/400x400/umg2.jpg);
   background-position: center left;
 }
 .home-fact-section .fact-right-inner-wrap .fact-inner-box .bottom-right-content {
